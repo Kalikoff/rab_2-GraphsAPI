@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Графы с API</string>
+    <string name="add_graph">Создать граф</string>
+    <string name="edit_graph">Изменить граф</string>
+    <string name="add_node">Добавить точку</string>
+    <string name="add_link">Добавить ссылку</string>
+    <string name="new_text">Новый</string>
+    <string name="edit_text">Изменить</string>
+    <string name="delete_text">Удалить</string>
+    <string name="exit_text">Удалить</string>
+    <string name="copy_text">Копия</string>
+    <string name="create_account">Создать аккаунт</string>
+    <string name="info_FIO">Калмыков Семён 403</string>
+</resources>
